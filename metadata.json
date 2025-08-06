@@ -1,0 +1,6 @@
+{
+  "name": "Mapping excel",
+  "description": "Aplikácia na mapovanie stĺpcov medzi dvoma súbormi a generovanie výsledného Excel súboru.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
