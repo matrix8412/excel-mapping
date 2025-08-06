@@ -1,7 +1,7 @@
 import path from 'path';
 import { defineConfig, loadEnv } from 'vite';
 
-export default defineConfig(({ mode }) => {
+export default defineConfig(({ base: "/excel-mapping/" }) => {
     const env = loadEnv(mode, '.', '');
     return {
       define: {
